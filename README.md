@@ -34,12 +34,12 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PunyaKSirohi-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyaKSirohi-V&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=PunyaKSirohi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyaKSirohi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyaKSirohi-V&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyaKSirohi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 ---
@@ -47,7 +47,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PunyaKSirohi-V&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=PunyaKSirohi&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies">
 </div>
 
 ---
@@ -55,7 +55,7 @@ me.say_hi()
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PunyaKSirohi-V&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PunyaKSirohi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
 </div>
 
 ---
@@ -119,11 +119,11 @@ me.say_hi()
 ## 💡 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/PunyaKSirohi-V/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi-V&repo=repo1&theme=tokyonight&hide_border=true" alt="Repo 1">
+  <a href="https://github.com/PunyaKSirohi/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi&repo=repo1&theme=tokyonight&hide_border=true" alt="Repo 1">
   </a>
-  <a href="https://github.com/PunyaKSirohi-V/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi-V&repo=repo2&theme=tokyonight&hide_border=true" alt="Repo 2">
+  <a href="https://github.com/PunyaKSirohi/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi&repo=repo2&theme=tokyonight&hide_border=true" alt="Repo 2">
   </a>
 </div>
 
@@ -143,7 +143,7 @@ HTML/CSS     25 mins         ▓░░░░░░░░░░░░░░░░
 
 ### 🐍 Snake eating my contributions
 
-![Snake animation](https://github.com/PunyaKSirohi-V/PunyaKSirohi-V/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PunyaKSirohi/PunyaKSirohi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -151,9 +151,9 @@ HTML/CSS     25 mins         ▓░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-**⭐ From [PunyaKSirohi-V](https://github.com/PunyaKSirohi-V)**
+**⭐ From [PunyaKSirohi](https://github.com/PunyaKSirohi)**
 
-![Visitor Count](https://profile-counter.glitch.me/PunyaKSirohi-V/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/PunyaKSirohi/count.svg)
 
 </div>
 
