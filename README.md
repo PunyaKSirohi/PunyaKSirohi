@@ -44,6 +44,9 @@ me.say_hi()
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=PunyaKSirohi)
+
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
