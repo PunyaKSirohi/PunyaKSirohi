@@ -123,7 +123,7 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/PunyaKSirohi/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi&repo=repo1&theme=tokyonight&hide_border=true" alt="Repo 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi&repo=Ink-Well&theme=tokyonight&hide_border=true" alt="Ink-Well Repo">
   </a>
   <a href="https://github.com/PunyaKSirohi/repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi&repo=repo2&theme=tokyonight&hide_border=true" alt="Repo 2">
