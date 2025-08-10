@@ -126,7 +126,7 @@ me.say_hi()
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi&repo=Ink-Well&theme=tokyonight&hide_border=true" alt="Ink-Well Repo">
   </a>
   <a href="https://github.com/PunyaKSirohi/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi&repo=repo2&theme=tokyonight&hide_border=true" alt="Repo 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaKSirohi&repo=FocusFlow&theme=tokyonight&hide_border=true" alt="Focus Flow Repo">
   </a>
 </div>
 
