@@ -44,9 +44,6 @@ me.say_hi()
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=PunyaKSirohi)
-
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -153,15 +150,16 @@ HTML/CSS     25 mins         ▓░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-
-**⭐ From [PunyaKSirohi](https://github.com/PunyaKSirohi)**
-
-![Visitor Count](https://profile-counter.glitch.me/PunyaKSirohi/count.svg)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+
+**⭐ From [PunyaKSirohi](https://github.com/PunyaKSirohi)**
+
+![Visitor Count](https://profile-counter.glitch.me/PunyaKSirohi/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=PunyaKSirohi)
+
 </div>
